@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">🎬 I make content on YouTube about how games are shaped by culture, politics</h5>
+<h5 align="left">🎮 Designing games with a curious eye on culture & storytelling.<br>📚 Studying Game Design at Leeds Beckett University.<br>🧪 Exploring QA testing and game research.<br>🌏 Fascinated by Chinese & Japanese gaming markets and politics.<br>🎥 Making video content about the game industry.<br>🛜 Currently building my portfolio website.</h5>
 
 ###
 
-<h3 align="left">Software</h3>
+<h3 align="left">Game Design Stack ⚙️</h3>
 
 ###
 
@@ -24,24 +24,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alessandrodeconcilio/alessandrodeconcilio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alessandrodeconcilio/alessandrodeconcilio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alessandrodeconcilio/alessandrodeconcilio/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="left">🛠  Software</h3>
-
-###
-
 <h3 align="left">Projects I worked on 🕹️</h3>
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgur.com/a/QWhGTFS"  />
-</div>
 
 ###
