@@ -28,8 +28,8 @@
 
 ###
 
-<a href="https://youtu.be/nisHrckvYsA" target="_blank">
-  <img src="https://img.youtube.com/vi/nisHrckvYsA/hqdefault.jpg" alt="Test" width="50%">
+<a href="https://destination-link.com" target="_blank">
+  <img src="test.png" alt="Alt Text" width="500" height="auto">
 </a>
 
 ###
