@@ -34,7 +34,7 @@
 
 ###
 
-<a href="https://example.com" target="_blank">Link Text</a>
+<a href="https://example.com" target="_blank" style="color:#4CAF50; font-weight:600;">Explore this project ➡️</a>
 
 
 ###
