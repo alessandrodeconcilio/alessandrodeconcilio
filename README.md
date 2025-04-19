@@ -27,3 +27,14 @@
 <h3 align="left">Projects I worked on 🕹️</h3>
 
 ###
+
+<a href="https://youtu.be/nisHrckvYsA" target="_blank">
+  <img src="https://img.youtube.com/vi/nisHrckvYsA/hqdefault.jpg" alt="Test" width="50%">
+</a>
+
+###
+
+<a href="https://example.com" target="_blank">Link Text</a>
+
+
+###
