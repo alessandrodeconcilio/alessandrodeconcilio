@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <a href="https://destination-link.com" target="_blank" rel="noopener noreferrer">
-  <img src="test.png" alt="Banner" width="1000" height="150" style="border-radius: 8px; object-fit: cover;">
+  <img src="Test2.png" alt="Banner" width="1000" height="150" style="border-radius: 8px; object-fit: cover;">
 </a>
 
 <h2 align="left">Just a humble Game Designer, balancing spreadsheets and dreams 🕹️</h2>
