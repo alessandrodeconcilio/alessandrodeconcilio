@@ -1,3 +1,9 @@
+<!-- BANNER -->
+
+<a href="https://destination-link.com" target="_blank" rel="noopener noreferrer">
+  <img src="test.png" alt="Banner" width="1000" height="150" style="border-radius: 8px; object-fit: cover;">
+</a>
+
 <h2 align="left">Just a humble Game Designer, balancing spreadsheets and dreams 🕹️</h2>
 
 <h5 align="left">
@@ -33,8 +39,6 @@
 
 <!-- PROJECTS -->
 <h3 align="left">Projects I worked on 🕹️</h3>
-
-<a href="https://destination-link.com" target="_blank" rel="noopener noreferrer"><img src="test.png" alt="Project Banner" width="500" style="border-radius: 8px;"></a>
 
 <p align="left">
   <a href="https://alessandrodeconcilio.github.io/Project_Showcase/" target="_blank" rel="noopener noreferrer"><strong>🚀 Explore this project</strong></a>
