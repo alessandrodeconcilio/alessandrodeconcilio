@@ -54,7 +54,3 @@
 <a href="https://example.com" target="_blank" style="color:#4CAF50; font-weight:600;">Explore this project ➡️</a>
 
 ###
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alessandrodeconcilio/)
-
-###
