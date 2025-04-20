@@ -1,4 +1,4 @@
-<h2 align="left">Just a humble Game Designer, balancing spreadsheets and dreams 🕹️</h2>
+<h1 align="left">Just a humble Game Designer, balancing spreadsheets and dreams 🕹️</h1>
 
 <h5 align="left">
   🎮 Designing games with a curious eye on culture & storytelling.<br>
