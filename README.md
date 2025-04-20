@@ -25,18 +25,13 @@
 <h3 align="left">Game Design Stack ⚙️</h3>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="Unity"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="Trello"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
+  <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Unity&logo=unity&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="Unity"/></a>
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Unreal&logo=unrealengine&label=&color=0E1128&logoColor=white&labelColor=&style=for-the-badge" alt="Unreal Engine"/></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="Premiere Pro"/></a>
+  <a href="https://trello.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Trello&logo=trello&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" alt="Trello"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Photoshop&logo=adobephotoshop&label=&color=31A8FF&logoColor=white&labelColor=&style=for-the-badge" alt="Photoshop"/></a>
 </div>
 
-<br/>
 
 <!-- PROJECTS -->
 <h3 align="left">Projects I worked on 🕹️</h3>
