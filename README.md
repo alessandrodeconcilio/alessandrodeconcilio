@@ -1,8 +1,10 @@
 <!-- BANNER -->
 
-<a href="https://destination-link.com" target="_blank" rel="noopener noreferrer">
-  <img src="Test2.png" alt="Banner" width="1000" height="150" style="border-radius: 8px; object-fit: cover;">
-</a>
+<div style="position: relative; width: 100%; padding-top: 28.125%; max-width: 1000px; margin: auto; border-radius: 8px; overflow: hidden;">
+  <a href="https://destination-link.com" target="_blank" rel="noopener noreferrer">
+    <img src="Test2.png" alt="Project Banner" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+  </a>
+</div>
 
 <h2 align="left">Just a humble Game Designer, balancing spreadsheets and dreams 🕹️</h2>
 
