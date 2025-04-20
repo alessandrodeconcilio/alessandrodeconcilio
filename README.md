@@ -1,4 +1,4 @@
-<h3 align="left">Just a humble Game Designer, balancing spreadsheets and dreams 🕹️</h3>
+<h2 align="left">Just a humble Game Designer, balancing spreadsheets and dreams 🕹️</h2>
 
 <h5 align="left">
   🎮 Designing games with a curious eye on culture & storytelling.<br>
@@ -9,7 +9,7 @@
   🛜 Currently building my portfolio website.
 </h5>
 
-<br/>
+<h2 align="left">Where Else You’ll Find Me 💬</h2>
 
 <!-- SOCIALS -->
 <div align="left">
@@ -18,8 +18,6 @@
   <a href="https://ko-fi.com/alessandrodeconcilio" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" alt="Ko-fi"/></a>
   <a href="https://x.com/Maxhinee29390" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="X (Twitter)"/></a>
 </div>
-
-<br/>
 
 <!-- STACK -->
 <h3 align="left">Game Design Stack ⚙️</h3>
