@@ -37,5 +37,5 @@
 <a href="https://destination-link.com" target="_blank" rel="noopener noreferrer"><img src="test.png" alt="Project Banner" width="500" style="border-radius: 8px;"></a>
 
 <p align="left">
-  <a href="https://example.com" target="_blank" rel="noopener noreferrer"><strong>🚀 Explore this project</strong></a>
+  <a href="https://alessandrodeconcilio.github.io/Project_Showcase/" target="_blank" rel="noopener noreferrer"><strong>🚀 Explore this project</strong></a>
 </p>
