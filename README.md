@@ -8,14 +8,14 @@
 
 <h2 align="left">Just a humble Game Designer, balancing spreadsheets and dreams 🕹️</h2>
 
-<h5 align="left">
+<h4 align="left">
   🎮 Designing games with a curious eye on culture & storytelling.<br>
   📚 Studying Game Design at Leeds Beckett University.<br>
   🧪 Exploring QA testing and game research.<br>
   🌏 Fascinated by Chinese & Japanese gaming markets and politics.<br>
   🎥 Making video content about the game industry.<br>
   🛜 Currently building my portfolio website.
-</h5>
+</h4>
 
 <h2 align="left">Where Else You’ll Find Me 💬</h2>
 
